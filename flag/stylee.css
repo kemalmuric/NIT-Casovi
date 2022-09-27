@@ -1,0 +1,99 @@
+.red{
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+    height: 100px;
+    background-color: red;
+}
+
+.orange {
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 100px;
+    background-color: white;
+}
+
+.blue {
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 100px;
+    background-color: blue;
+}
+
+.plava {
+    display: block;
+    margin-top: 200px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 800px;
+    background-color: #0055A4;
+}
+
+.bela {
+    display: block;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 800px;
+    background-color: white;
+}
+
+.crvena {
+    display: block;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 800px;
+    background-color: red;
+}
+
+/* .crvena1 {
+    height: 100px;
+    
+    margin-right: 20px;
+    margin-left: 800px;
+    margin-top: -100px;
+    background-color: red; 
+}
+
+ .crna {
+    height: 100px;
+    margin-top: -400px;
+    margin-right: 20px;
+    margin-left: 800px;
+    background-color:black;
+} 
+
+.zuta {
+    height: 100px;
+        
+    margin-right: 20px;
+    margin-left: 800px;
+    margin-bottom: -200px;
+    background-color: #FFCC00;
+}  */
+
+
+.crna {
+    height: 100px;
+    margin-left: 20px;
+    margin-left: 800px;
+    margin-top: -300px;
+    background-color: black;
+
+}
+
+.crvena1 {
+    height: 100px;
+    margin-left: 20px;
+    margin-left: 800px;
+    background-color: red;
+}
+
+.zuta {
+    height: 100px;
+    margin-left: 20px;
+    margin-left: 800px;
+    background-color:#FFCC00 ;
+}
