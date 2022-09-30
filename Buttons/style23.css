@@ -1,0 +1,32 @@
+.navigacija {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(42, 42, 42);  
+    align-items: center;
+    height: 20px;
+    width: 400px;
+}
+
+.navigacija div {
+    height: 100%;
+    width: 60%;
+    text-align: center;
+}
+
+.Naslovna {
+    background-color: green;
+}
+
+.navigacija div:hover{
+    background-color: grey;
+}
+
+
+.naslovna-btn{
+    height: 80%;
+    width: 100%;
+    align-self: center;
+    color: white;
+    text-decoration: none;
+}
+
