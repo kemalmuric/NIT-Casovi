@@ -1,0 +1,34 @@
+.parent {
+    
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 200vh;
+}
+
+.first {
+ background-color: red;
+ height: 30px;
+ width: 50px;
+ position: sticky;
+ top: 0px;
+ right: 0px;
+ 
+
+}
+
+.second {
+    background-color: blue;
+    height: 30px;
+    width: 50px;
+    position: absolute;
+    
+
+}
+
+.third {
+    background-color: orange;
+    height: 30px;
+    width: 50px;
+    position: fixed;
+}
